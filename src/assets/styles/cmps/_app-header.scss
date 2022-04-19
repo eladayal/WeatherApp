@@ -1,0 +1,25 @@
+.app-header{
+height: 50px;
+.app-header-container{
+    // justify-content: flex-end;
+
+
+    .header-link-btns{
+        font-size: rem(20px);
+        color: #ffffff;
+        gap: 15px;
+        padding: 20px;
+        font-weight: bold;
+        text-shadow: -2px 1px 5px black;
+    }
+    .app-date{
+        font-size: rem(20px);
+            color: #ffffff;
+        padding: 20px;
+
+            font-weight: bold;
+            text-shadow: -2px 1px 5px black;
+    
+    }
+}
+}

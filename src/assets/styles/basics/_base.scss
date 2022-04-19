@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: montserrat, sans-serif;
+    color: #1a1a1a;
+}
+
+body {
+    background: linear-gradient(0deg, rgba(213,160,106,1) 0%, rgba(102,197,242,1) 100%);
+    margin: 0 auto;
+    min-height: 100vh;
+}
+
+img {
+    width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    /* padding: 0; */
+}
+
+p {
+    margin: 0 auto;
+    // max-width: 50ch;
+}
+
+button{
+     all: unset; 
+    /* padding: 5px; */
+    cursor: pointer;
+    border: none;
+}
+
+textarea{
+    resize: none;
+}
+
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+

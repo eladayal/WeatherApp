@@ -1,0 +1,29 @@
+.weather-preview{
+
+h2{
+    margin-top: 20px;
+}
+
+.weather-preview-container{
+    gap: 11px;
+    flex-wrap: wrap;
+}
+
+
+.favorite-btn{
+    margin-top: 20px;
+    font-size: 40px;
+    color: #fff;
+}
+
+
+}
+
+.searchMsg{
+    width: 440px;
+    text-align: center;
+    line-height: 2;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}

@@ -1,0 +1,48 @@
+.forecast-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    margin-top: 30px;
+    width: 200px;
+    height: 505px;
+    gap: 35px;
+    background-color: rgba(255, 255, 255, 0.472);
+    text-align: center;
+    border-radius: 5px;
+
+        div{
+            height: 50px;
+        }
+   & div:not(:last-child){
+    border-bottom: 1px solid #93939399;
+   }
+
+   img{
+       width: 100px;
+       align-self: center;
+   }
+  
+}
+
+@media screen and (max-width: 700px) {
+ 
+
+    .forecast-details {
+        flex-direction: row;
+        justify-content: center;
+        align-items: end;
+        position: relative;
+        width: 350px;
+        height: 140px;
+        gap: 15px;
+
+        img{
+            width: 60px;
+            position: absolute;
+            top: 5px;
+        }
+        .date{
+        }
+    }  
+  }

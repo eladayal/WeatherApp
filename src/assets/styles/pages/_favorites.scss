@@ -1,0 +1,25 @@
+.favorite {
+  gap: 20px;
+
+  h1{
+      font-size: rem(30px);
+      font-weight: bold;
+  }
+  .fav-title {
+    margin-block-start: 20px;
+  }
+
+  .forecast-container {
+    flex-wrap: wrap;
+    gap: 10px;
+    position: relative;
+  }
+
+  .remove-favorite{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 30px;
+    color: black;
+  }
+}

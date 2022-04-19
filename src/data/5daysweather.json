@@ -1,0 +1,172 @@
+{
+    "Headline": {
+      "EffectiveDate": "2022-02-04T07:00:00+00:00",
+      "EffectiveEpochDate": 1643958000,
+      "Severity": 5,
+      "Text": "Rain early Friday morning",
+      "Category": "rain",
+      "EndDate": "2022-02-04T10:00:00+00:00",
+      "EndEpochDate": 1643968800,
+      "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2022-02-03T07:00:00+00:00",
+        "EpochDate": 1643871600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 6.8,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 10.9,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=1&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=1&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2022-02-04T07:00:00+00:00",
+        "EpochDate": 1643958000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 2.9,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 7.9,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 13,
+          "IconPhrase": "Mostly cloudy w/ showers",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=2&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=2&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2022-02-05T07:00:00+00:00",
+        "EpochDate": 1644044400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 9.1,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 9.8,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 38,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=3&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=3&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2022-02-06T07:00:00+00:00",
+        "EpochDate": 1644130800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 7.9,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 11.3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=4&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=4&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2022-02-07T07:00:00+00:00",
+        "EpochDate": 1644217200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 8.6,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 12.9,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 8,
+          "IconPhrase": "Dreary",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=5&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328?day=5&unit=c&lang=en-us"
+      }
+    ]
+  }
